@@ -24,7 +24,6 @@ The goal of this repository is to learn TypeScript step by step while building a
 - Objects
 - Arrays
 - Interfaces
-- Type Aliases
 - Generics
 - Classes
 - Modules
