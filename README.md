@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Learn TypeScript!
+# 🚀 Learn TypeScript
 
 A day-by-day journey to mastering **TypeScript** from beginner to advanced.
 
