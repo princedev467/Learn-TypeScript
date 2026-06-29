@@ -28,7 +28,6 @@ The goal of this repository is to learn TypeScript step by step while building a
 - Classes
 - Modules
 - Advanced Types
-- Real-world Examples
 
 ---
 
