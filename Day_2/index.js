@@ -45,6 +45,14 @@ var Role;
 })(Role || (Role = {}));
 let userRole = Role.Admin;
 console.log(userRole);
+var status;
+(function (status) {
+    status["success"] = "success";
+    status["pending"] = "pending";
+    status["reject"] = "reject";
+})(status || (status = {}));
+let apiResponce = status.success;
+console.log(apiResponce);
 // Array
 let l = [10, 20, 30, 40, 50]; // store only Number data types
 console.log(l);

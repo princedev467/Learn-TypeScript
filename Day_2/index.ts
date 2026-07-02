@@ -54,7 +54,8 @@ if(typeof(test)=='string'){
 console.log(test);
 
 
-//7. enum Data Types
+//7. enum Data Types 
+//  enum:create a group store value and access patricular value in this group
 enum Role{
     Admin=1,
     User=2,
@@ -64,8 +65,14 @@ enum Role{
 let userRole:Role=Role.Admin
 console.log(userRole);
 
+enum status{
+    success="success",
+    pending="pending",
+    reject="reject"
+}
 
-
+let apiResponce:status=status.success
+console.log(apiResponce);
 
 
 // Array
